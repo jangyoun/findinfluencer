@@ -2,23 +2,23 @@
   "code": 0,
   "items": [
     {
-      "type": 0,
+      "type": "header",
       "title": "title0"
     },
     {
-      "type": 1,
+      "type": "type_a",
       "title": "title0"
     },
     {
-      "type": 2,
+      "type": "type_a",
       "title": "title0"
     },
     {
-      "type": 3,
+      "type": "type_a",
       "title": "title0"
     },
     {
-      "type": 4,
+      "type": "type_a",
       "title": "title0"
     }
   ]
